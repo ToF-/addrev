@@ -1,3 +1,5 @@
+# caution expected lines have extra trailing space
+# because forth . word outputs number + 1 space
 <- 3
 <- 24 1
 -> 34 
